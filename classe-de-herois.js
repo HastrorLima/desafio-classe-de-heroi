@@ -37,3 +37,4 @@ heroi.adicionarHeroi("Renato", 39, "monge")
 heroi.adicionarHeroi("Fernando", 32, "ninja")
 
 heroi.atacar()
+
